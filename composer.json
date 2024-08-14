@@ -1,0 +1,13 @@
+{
+    "name": "multihanded/overrider",
+    "description": "The CLI utility for overriding classes from vendor by namespace.",
+    "type": "utility",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "bin": [
+        "bin/overrider",
+        "bin/overrider.bat"
+    ]
+}
